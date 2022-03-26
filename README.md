@@ -6,6 +6,8 @@ The white paper [ENGLISH](https://github.com/TFX-DAO/TFX-TOKEN/blob/main/doc/TFX
 
 The white paper [中文白皮书](https://github.com/TFX-DAO/TFX-TOKEN/blob/main/doc/TFX%E5%8C%BA%E5%9D%97%E9%93%BE%E5%BA%94%E7%94%A8%E5%B9%B3%E5%8F%B0%E7%99%BD%E7%9A%AE%E4%B9%A6(%E4%B8%AD%E6%96%87%E7%89%88).pdf)
 
+TFX-TOKEN  Contract address 0xbe7bdd5d57ddd667347764b13626b90175ab852b
+
 [非小号](https://m.feixiaohao.info/news/10780524.html)  
 
 
