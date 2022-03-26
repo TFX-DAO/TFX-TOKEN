@@ -1,6 +1,6 @@
 # TFX-TOKEN
 
-Project's official website   [TFX-TOKEN](http://www.tfxvip.com/)    http://www.tfxvip.com/  
+Project's official website   [TFX-TOKEN](http://www.tfxvip.cc/)    http://www.tfxvip.cc/  
 
 The white paper [ENGLISH](https://github.com/TFX-DAO/TFX-TOKEN/blob/main/doc/TFX%20white%20paper(English).pdf)  
 
