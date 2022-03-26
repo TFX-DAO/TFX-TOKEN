@@ -367,5 +367,6 @@ contract TokenMintERC20Token is ERC20 {
      */
     function decimals() public view returns (uint8) {
       return _decimals;
+      
     }
 }
